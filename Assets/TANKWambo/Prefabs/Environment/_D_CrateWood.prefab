@@ -75,8 +75,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1235142203
-  m_SortingLayer: 2
+  m_SortingLayerID: -460642181
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: b8255aa4ec156ab4692acfdceb59661d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -146,8 +146,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _showInfo: 1
   _explanation: "When a collision with a bounding volume with tags [Bullet,Explosion]
-    starts:\n First, \n          plays sound crate_break_sound at volume 1 and at
-    pitch 1\n          destroys this object\n"
+    starts:\n          plays sound crate_break_sound at volume 1 and at pitch 1\n         
+    destroys this object\n"
   description: 
   enableTrigger: 1
   allowRetrigger: 0
